@@ -1,0 +1,27 @@
+[{
+		Engine: "§exponentiation",
+			FF1: "Yes",
+			FF2: "Yes",
+			IE1: "No",
+			IE2: "No",
+			IE3: "No",
+			WK1: "No",
+			WK2: "No",
+			WK3: "No",
+			WK4: "No",
+			iOS1: "No",
+			iOS2: "No"
+	}, {
+		Engine: "§function.sentc",
+			FF1: "No",
+			FF2: "No",
+			IE1: "No",
+			IE2: "No",
+			IE3: "No",
+			WK1: "No",
+			WK2: "No",
+			WK3: "No",
+			WK4: "No",
+			iOS1: "No",
+			iOS2: "No"
+	}]
